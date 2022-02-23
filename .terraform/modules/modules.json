@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"sreemodule.sreemodule","Source":"./vpcmod","Dir":""},{"Key":"sreemodule","Source":"git::https://github.com/sreebabu762/modulevpc.git?ref=v1.0","Dir":".terraform/modules/sreemodule"}]}
