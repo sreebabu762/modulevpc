@@ -1,5 +1,5 @@
 module "sreemodule" {
-    source = "./vpcmod"
+    source = "./vpcmodule"
     region = "us-east-1"
     access_key = "AKIASRC4BHTKBY3SRY6I"
     secret_key = "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"
