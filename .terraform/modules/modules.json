@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"sreemodule","Source":"git::https://github.com/sreebabu762/modulevpc.git?ref=v1.0","Dir":".terraform/modules/sreemodule"},{"Key":"sreemodule.sreemodule","Source":"./vpcmodule","Dir":""},{"Key":"","Source":"","Dir":"."}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"sreemodule","Source":"git::https://github.com/sreebabu762/modulevpc.git?ref=v1.0","Dir":".terraform/modules/sreemodule"},{"Key":"sreemodule.sreemodule","Source":"./vpcmod","Dir":".terraform/modules/sreemodule/vpcmod"}]}
